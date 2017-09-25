@@ -1,6 +1,6 @@
 # Create a branch
 
-![Create a branch](http://guides.github.com/overviews/flow/ "Create a branch")
+![Create a branch](https://lucamezzalira.files.wordpress.com/2014/03/screen-shot-2014-03-08-at-23-07-361.png?w=650&h=230 "Create a branch")
 
 When you're working on a project, you're going to have a bunch of different features or ideas in progress at any given time – some of which are ready to go, and others which are not. Branching exists to help you manage this workflow.
 
