@@ -1,4 +1,7 @@
 # Create a branch
+
+![Create a branch](http://guides.github.com/overviews/flow/ "Create a branch")
+
 When you're working on a project, you're going to have a bunch of different features or ideas in progress at any given time – some of which are ready to go, and others which are not. Branching exists to help you manage this workflow.
 
 # Add commits
